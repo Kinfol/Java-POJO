@@ -1,11 +1,17 @@
 public class Game {
-    private static String[] initialScore = {"Love-all"};
+    String player1;
+    String player2;
 
     public String getScore() {
-        int i;
-        for (i = 0; i < initialScore.length; i++) {
-            return initialScore[i];
+        if (noPlayerNames()) {
+            return "Love-all";
         }
-        return null;
+
+        return String.format("%s: Love, %s Love", player1, player2);
     }
+
+    private boolean noPlayerNames() {
+        return player1 == null && player2 == null;
+    }
+
 }
