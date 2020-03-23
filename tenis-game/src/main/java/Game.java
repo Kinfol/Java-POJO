@@ -10,10 +10,22 @@ public class Game {
     }
 
     public String getScore() {
-        if (player1 == null && player2 == null) {
-            return "Love all";
+        if (noPlayerNames()) {
+            return plainScore();
         }
 
+        return scoreWithPlayerNames();
+    }
+
+    private String plainScore() {
+        return "Love all";
+    }
+
+    private String scoreWithPlayerNames() {
         return String.format("%s: Love, %s: Love", player1, player2);
+    }
+
+    private boolean noPlayerNames() {
+        return player1 == null && player2 == null;
     }
 }
