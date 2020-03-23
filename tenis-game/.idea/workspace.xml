@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3be5e703-7056-4e37-8f53-1532ceb11b87" name="Default Changelist" comment="" />
+    <list default="true" id="3be5e703-7056-4e37-8f53-1532ceb11b87" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_junit_jupiter_junit_jupiter_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/tenis-game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GameLogicTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/15ec384e75df0ee24b6c4d4e46014469909fa650" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/15ec384e75df0ee24b6c4d4e46014469909fa650" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e44a8606ce010ad9b89aafdfcee2ab49afbf6d10" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e44a8606ce010ad9b89aafdfcee2ab49afbf6d10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GameLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GameLogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GameLogic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/GameLogic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,31 +26,58 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ZLdpYDBavNIi77MuV78M4JZopV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in tenis-game">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="tenis-game" />
@@ -43,9 +85,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="All in tenis-game" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tenis-game" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameLogicTest.setScore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tenis-game" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GameLogicTest" />
+      <option name="METHOD_NAME" value="setScore" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in tenis-game" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.GameLogicTest.setScore" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -63,6 +126,8 @@
       <workItem from="1584624537568" duration="6255000" />
       <workItem from="1584698133603" duration="4970000" />
       <workItem from="1584782140374" duration="19000" />
+      <workItem from="1584782718831" duration="5306000" />
+      <workItem from="1584789859722" duration="1235000" />
     </task>
     <servers />
   </component>
@@ -70,46 +135,58 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2415" y="269" key="#com.intellij.ide.util.MemberChooser" timestamp="1584699624627">
+    <state x="2343" y="205" key="#Main_(1)" timestamp="1584783238817">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
-    <state x="2415" y="269" key="#com.intellij.ide.util.MemberChooser/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1584699624627" />
+    <state x="2343" y="205" key="#Main_(1)/1680.0.1920.1080/0.23.1680.1027@1680.0.1920.1080" timestamp="1584783238817" />
+    <state x="2415" y="269" key="#com.intellij.ide.util.MemberChooser" timestamp="1584789493288">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2415" y="269" key="#com.intellij.ide.util.MemberChooser/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1584789493288" />
     <state x="2317" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584698796492">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state x="2317" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1584698796492" />
-    <state width="1638" height="304" key="GridCell.Tab.0.bottom" timestamp="1584706115308">
+    <state width="1878" height="330" key="GridCell.Tab.0.bottom" timestamp="1584954128394">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state width="1638" height="304" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584704528914" />
-    <state width="1638" height="304" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1584706115308" />
-    <state width="1878" height="304" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.23.1680.1027@1680.0.1920.1080" timestamp="1584690941121" />
-    <state width="1638" height="304" key="GridCell.Tab.0.center" timestamp="1584706115307">
+    <state width="1878" height="330" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1584954128394" />
+    <state width="1878" height="330" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.23.1680.1027@1680.0.1920.1080" timestamp="1584783246248" />
+    <state width="1878" height="330" key="GridCell.Tab.0.center" timestamp="1584954128392">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state width="1638" height="304" key="GridCell.Tab.0.center/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584704528913" />
-    <state width="1638" height="304" key="GridCell.Tab.0.center/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1584706115307" />
-    <state width="1878" height="304" key="GridCell.Tab.0.center/1680.0.1920.1080/0.23.1680.1027@1680.0.1920.1080" timestamp="1584690941120" />
-    <state width="1638" height="304" key="GridCell.Tab.0.left" timestamp="1584706115307">
+    <state width="1878" height="330" key="GridCell.Tab.0.center/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1584954128392" />
+    <state width="1878" height="330" key="GridCell.Tab.0.center/1680.0.1920.1080/0.23.1680.1027@1680.0.1920.1080" timestamp="1584783246245" />
+    <state width="1878" height="330" key="GridCell.Tab.0.left" timestamp="1584954128391">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state width="1638" height="304" key="GridCell.Tab.0.left/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584704528913" />
-    <state width="1638" height="304" key="GridCell.Tab.0.left/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1584706115307" />
-    <state width="1878" height="304" key="GridCell.Tab.0.left/1680.0.1920.1080/0.23.1680.1027@1680.0.1920.1080" timestamp="1584690941120" />
-    <state width="1638" height="304" key="GridCell.Tab.0.right" timestamp="1584706115308">
+    <state width="1878" height="330" key="GridCell.Tab.0.left/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1584954128391" />
+    <state width="1878" height="330" key="GridCell.Tab.0.left/1680.0.1920.1080/0.23.1680.1027@1680.0.1920.1080" timestamp="1584783246244" />
+    <state width="1878" height="330" key="GridCell.Tab.0.right" timestamp="1584954128393">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state width="1638" height="304" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584704528913" />
-    <state width="1638" height="304" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1584706115308" />
-    <state width="1878" height="304" key="GridCell.Tab.0.right/1680.0.1920.1080/0.23.1680.1027@1680.0.1920.1080" timestamp="1584690941121" />
-    <state x="2128" y="121" key="SettingsEditor" timestamp="1584782158858">
+    <state width="1878" height="330" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1584954128393" />
+    <state width="1878" height="330" key="GridCell.Tab.0.right/1680.0.1920.1080/0.23.1680.1027@1680.0.1920.1080" timestamp="1584783246246" />
+    <state x="2128" y="121" key="SettingsEditor" timestamp="1584788871201">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
-    <state x="2128" y="121" key="SettingsEditor/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1584782158858" />
+    <state x="2128" y="121" key="SettingsEditor/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1584788871201" />
     <state x="2213" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1584782142565">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state x="2213" y="354" key="com.intellij.ide.util.TipDialog/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1584782142565" />
+    <state x="2366" y="440" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584788866505">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2366" y="440" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1584788866505" />
+    <state x="2419" y="274" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584788611078">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2419" y="274" key="com.intellij.testIntegration.createTest.CreateTestDialog/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1584788611078" />
     <state x="2348" y="163" key="refactoring.ChangeSignatureDialog" timestamp="1584698849417">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>

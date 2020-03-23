@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        GameLogic gameLogic = new GameLogic();
-        gameLogic.printPlayerScore(0, 0);
+        GameLogic gameLogic = new GameLogic("Fred", "Bob");
+        System.out.println(gameLogic.setScore());
     }
 }
+
