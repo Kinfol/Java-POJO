@@ -4,6 +4,7 @@ public abstract class AbstractPlayer {
     private String playerName;
     private int scorePlayer;
     private int opponentPlayer;
+    private String[] score;
 
     //should I have a pseudo score here, or can I have it in my logic?
 
