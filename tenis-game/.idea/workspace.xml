@@ -2,15 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3be5e703-7056-4e37-8f53-1532ceb11b87" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/91811a64f88e23564da16931953fe9fc05ce2b2b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tennis-game-int/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tennis-game-int/.idea/sonarlint/issuestore/5/a/5a469ce477081efcec98a963c18526f991f62425" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tennis-game-int/.idea/sonarlint/issuestore/e/4/e44a8606ce010ad9b89aafdfcee2ab49afbf6d10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tennis-game-int/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tennis-game-string/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tennis-game-string/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tennis-game-string/.idea/sonarlint/issuestore/2/e/2e14674bc45758ce278508fef9bae80e02413aa0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tennis-game-string/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tennis-game-string/.idea/sonarlint/issuestore/c/e/ceb613bc8bc6d0b1fe52f4aa08f6ce74e9fe8f73" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tennis-game-string/.idea/sonarlint/issuestore/c/f/cfb75a6880849f4cfc810dccd517137870b6e720" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tennis-game-string/.idea/sonarlint/issuestore/e/4/e44a8606ce010ad9b89aafdfcee2ab49afbf6d10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tennis-game-string/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tennis-game-string/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tennis-game-string/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tennis-game-string/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tennis-game-string/src/main/java/TennisGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tennis-game-string/src/main/java/TennisInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tennis-game-string/src/main/java/TennisPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tennis-game-string/tenis-game-string.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5a469ce477081efcec98a963c18526f991f62425" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5a469ce477081efcec98a963c18526f991f62425" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d9ce22465fd8bd0eeba9773295c95996a7175203" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d9ce22465fd8bd0eeba9773295c95996a7175203" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e44a8606ce010ad9b89aafdfcee2ab49afbf6d10" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e44a8606ce010ad9b89aafdfcee2ab49afbf6d10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AbstractPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AbstractPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/GameLogicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GameLogicTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AbstractPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/AbstractPlayer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestGame.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,6 +157,7 @@
       <workItem from="1584782718831" duration="5306000" />
       <workItem from="1584789859722" duration="3267000" />
       <workItem from="1584961911758" duration="10716000" />
+      <workItem from="1585129870912" duration="576000" />
     </task>
     <servers />
   </component>
@@ -160,29 +177,29 @@
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state x="2317" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1584698796492" />
-    <state width="1878" height="330" key="GridCell.Tab.0.bottom" timestamp="1584979937286">
+    <state width="1878" height="330" key="GridCell.Tab.0.bottom" timestamp="1585128765986">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state width="1638" height="304" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584704528914" />
-    <state width="1878" height="330" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1584979937286" />
+    <state width="1878" height="330" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1585128765986" />
     <state width="1878" height="330" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.23.1680.1027@1680.0.1920.1080" timestamp="1584961881040" />
-    <state width="1878" height="330" key="GridCell.Tab.0.center" timestamp="1584979937283">
+    <state width="1878" height="330" key="GridCell.Tab.0.center" timestamp="1585128765984">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state width="1638" height="304" key="GridCell.Tab.0.center/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584704528913" />
-    <state width="1878" height="330" key="GridCell.Tab.0.center/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1584979937283" />
+    <state width="1878" height="330" key="GridCell.Tab.0.center/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1585128765984" />
     <state width="1878" height="330" key="GridCell.Tab.0.center/1680.0.1920.1080/0.23.1680.1027@1680.0.1920.1080" timestamp="1584961881039" />
-    <state width="1878" height="330" key="GridCell.Tab.0.left" timestamp="1584979937282">
+    <state width="1878" height="330" key="GridCell.Tab.0.left" timestamp="1585128765983">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state width="1638" height="304" key="GridCell.Tab.0.left/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584704528913" />
-    <state width="1878" height="330" key="GridCell.Tab.0.left/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1584979937282" />
+    <state width="1878" height="330" key="GridCell.Tab.0.left/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1585128765983" />
     <state width="1878" height="330" key="GridCell.Tab.0.left/1680.0.1920.1080/0.23.1680.1027@1680.0.1920.1080" timestamp="1584961881038" />
-    <state width="1878" height="330" key="GridCell.Tab.0.right" timestamp="1584979937285">
+    <state width="1878" height="330" key="GridCell.Tab.0.right" timestamp="1585128765985">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state width="1638" height="304" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584704528913" />
-    <state width="1878" height="330" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1584979937285" />
+    <state width="1878" height="330" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1585128765985" />
     <state width="1878" height="330" key="GridCell.Tab.0.right/1680.0.1920.1080/0.23.1680.1027@1680.0.1920.1080" timestamp="1584961881040" />
     <state x="2128" y="121" key="SettingsEditor" timestamp="1584788871201">
       <screen x="1680" y="0" width="1920" height="1080" />

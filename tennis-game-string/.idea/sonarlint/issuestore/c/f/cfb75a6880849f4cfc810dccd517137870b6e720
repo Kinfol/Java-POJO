@@ -1,0 +1,9 @@
+
+r
+java:S1450"URemove the "choice" field and declare it as a local variable in the relevant methods.(ÍŠ™»8åµÆõ.
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(†’Ñ8¤¼õ.
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(¯Ú¹8ûĞ‰ö.
+S
+java:S2696"6Make the enclosing method "static" or remove this set.(€ƒ™˜8åµÆõ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(±£ôÉ8¤¼õ.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(üäØÆûÿÿÿÿ8¤¼õ.

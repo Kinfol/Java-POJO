@@ -15,3 +15,5 @@ G
 src/main/java/Game.java,5/a/5a469ce477081efcec98a963c18526f991f62425
 F
 src/main/java/Tem.java,d/9/d9ce22465fd8bd0eeba9773295c95996a7175203
+P
+ src/main/java/PlayerFactory.java,9/1/91811a64f88e23564da16931953fe9fc05ce2b2b
